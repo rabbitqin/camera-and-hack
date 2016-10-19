@@ -1,0 +1,157 @@
+body{
+width: 100%;
+height: 100%;
+margin: 0;
+padding: 0;
+background-color: green;
+}
+.camera{
+margin: 5px;
+padding: 0px;
+}
+
+#camera1{
+margin: 5px;
+float:right;
+width: 65px;
+height: 25px;	
+border:2px solid white;
+color:white;
+background-color: green;
+font-weight: bold;
+text-align: center;
+}
+
+#camera1:hover{
+background-color: grey;
+}
+
+#camera2{
+float:right;
+margin: 5px;
+float:right;
+width: 65px;
+height: 25px;	
+border:1px solid white;
+color:white;
+background-color: green;
+}
+
+#camera2:hover{
+background-color: grey;
+}
+
+#camera3{
+margin: 5px;
+float:right;
+width: 65px;
+height: 25px;	
+border:1px solid white;
+color:white;
+background-color: green;
+float:right;
+}
+
+#camera3:hover{
+background-color: grey;
+}
+
+#camera1-1{
+float:right;
+margin: 5px;
+float:right;
+width: 65px;
+height: 25px;	
+border:1px solid white;
+color:white;
+background-color: green;
+}
+
+#camera1-1:hover{
+background-color: grey;
+}
+
+
+#camera2-1{
+float:right;
+margin: 5px;
+float:right;
+width: 65px;
+height: 25px;	
+border:2px solid white;
+color:white;
+background-color: green;
+font-weight: bold;
+text-align: center;
+}
+
+#camera2-1:hover{
+background-color: grey;
+}
+
+#camera3-1{
+margin: 5px;
+float:right;
+width: 65px;
+height: 25px;	
+border:1px solid white;
+color:white;
+background-color: green;
+float:right;
+}
+
+#camera3-1:hover{
+background-color: grey;
+}
+
+#camera1-2{
+float:right;
+margin: 5px;
+float:right;
+width: 65px;
+height: 25px;	
+border:1px solid white;
+color:white;
+background-color: green;
+}
+
+#camera1-1:hover{
+background-color: grey;
+}
+
+
+#camera2-2{
+float:right;
+margin: 5px;
+float:right;
+width: 65px;
+height: 25px;	
+border:1px solid white;
+color:white;
+background-color: green;
+}
+
+#camera2-2:hover{
+background-color: grey;
+}
+
+#camera3-2{
+margin: 5px;
+float:right;
+width: 65px;
+height: 25px;	
+border:2px solid white;
+color:white;
+background-color: green;
+float:right;
+font-weight: bold;
+text-align: center;
+}
+
+#camera3-2:hover{
+background-color: grey;
+}
+
+
+
+
