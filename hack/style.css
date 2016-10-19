@@ -27,3 +27,62 @@ top: 50%;
 left: 50%;
 transform: translate(-50%, -50%);
 }
+
+.info{
+top: 50%;
+left: 50%;
+position:absolute;
+transform: translate(-50%, -50%);
+background-color: green;
+width:60px;
+height: 200px;
+}
+
+#text{
+margin: 5px;
+width: 60px;
+padding: auto;
+height: 20px;	
+border:1px solid white;
+color:white;
+background-color: green;
+text-align: center;
+display: inline-block;
+}
+
+
+#text:hover{
+background-color: grey;
+}
+
+#email{
+margin: 5px;
+padding:auto;
+width: 60px;
+height: 20px;	
+border:1px solid white;
+color:white;
+background-color: green;
+text-align: center;
+display: inline-block;
+}
+
+#email:hover{
+background-color: grey;
+}
+
+#video{
+		margin: 5px;
+		padding: auto;
+width: 60px;
+height: 20px;	
+border:1px solid white;
+color:white;
+text-align: center;
+background-color: green;
+display: inline-block;
+}
+
+#video:hover{
+background-color: grey;
+}
