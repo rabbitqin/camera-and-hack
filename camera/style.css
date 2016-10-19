@@ -5,6 +5,145 @@ margin: 0;
 padding: 0;
 background-color: green;
 }
+
+#suspect1{
+margin: 5px;
+float:left;
+width: 65px;
+height: 25px;	
+border:2px solid white;
+color:white;
+background-color: green;
+font-weight: bold;
+text-align: center;
+}
+
+
+#suspect1:hover{
+background-color: grey;
+}
+
+#suspect2{
+margin: 5px;
+float:left;
+width: 65px;
+height: 25px;	
+border:1px solid white;
+color:white;
+background-color: green;
+}
+
+#suspect2:hover{
+background-color: grey;
+}
+
+#suspect3{
+margin: 5px;
+float:left;
+width: 65px;
+height: 25px;	
+border:1px solid white;
+color:white;
+background-color: green;
+}
+
+#suspect3:hover{
+background-color: grey;
+}
+
+
+#suspect1-1{
+margin: 5px;
+float:left;
+width: 65px;
+height: 25px;	
+border:2px solid white;
+color:white;
+background-color: green;
+font-weight: bold;
+text-align: center;
+}
+
+#suspect1-1:hover{
+background-color: grey;
+}
+
+#suspect2-1{
+margin: 5px;
+float:left;
+width: 65px;
+height: 25px;	
+border:1px solid white;
+color:white;
+background-color: green;
+}
+
+#suspect2-1:hover{
+background-color: grey;
+}
+
+#suspect3-1{
+margin: 5px;
+float:left;
+width: 65px;
+height: 25px;	
+border:1px solid white;
+color:white;
+background-color: green;
+}
+
+#suspect3-1:hover{
+background-color: grey;
+}
+
+
+#suspect1-2{
+margin: 5px;
+float:left;
+width: 65px;
+height: 25px;	
+border:2px solid white;
+color:white;
+background-color: green;
+font-weight: bold;
+text-align: center;
+}
+
+
+#suspect1-2:hover{
+background-color: grey;
+}
+
+#suspect2-2{
+margin: 5px;
+float:left;
+width: 65px;
+height: 25px;	
+border:1px solid white;
+color:white;
+background-color: green;
+}
+
+#suspect2-2:hover{
+background-color: grey;
+}
+
+#suspect3-2{
+margin: 5px;
+float:left;
+width: 65px;
+height: 25px;	
+border:1px solid white;
+color:white;
+background-color: green;
+}
+
+#suspect3-2:hover{
+background-color: grey;
+}
+
+
+
 .camera{
 margin: 5px;
 padding: 0px;
